@@ -64,8 +64,8 @@ button{
 
 .symbol{
     border: 2px solid #1565C0;
-    font-size: 18px;
-    font-weight: 700;
+    font-size: 25px;
+    font-weight: bolder;
 }
 
 button:hover{
